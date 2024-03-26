@@ -1,0 +1,37 @@
+[
+    {
+        "profile":{
+        "name" : "CK Siddhaarthan", 
+        "job"   : "FullStack Developer",
+        "mail": "cksiddhaarthan@gmail.com"
+                },
+        "education":{
+            "bacherlors":"B.sc(Hospitality and Hotel Administration)",
+            "masters":"M.sc(Hospitality and Hotel Administration)"
+        },
+        "skills":{
+              "programming languages":"Javascript,php,c",
+              "styling":"css,bootstrap",
+              "frameworks":"react,react-native",
+              "experience":"1 year of front-end development"
+        }
+    },
+    {
+        "profile":{
+            "name" : "Tyler Durden", 
+            "job"   : "Soap Manufacturer",
+            "mail": "Tyler745@rocketemail.com"
+                    },
+            "education":{
+                "bacherlors":"BBA",
+                "masters":"None"
+            },
+            "skills":{
+                  "programming languages":"None",
+                  "styling":"none",
+                  "frameworks":"none",
+                  "experience":"Business man"
+            }
+    }
+
+]
