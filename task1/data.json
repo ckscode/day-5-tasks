@@ -2,8 +2,10 @@
     {
         "profile":{
         "name" : "CK Siddhaarthan", 
-        "job"   : "FullStack Developer",
-        "mail": "cksiddhaarthan@gmail.com"
+        "job"  : "FullStack Developer",
+        "email": "cksiddhaarthan@gmail.com",
+        "place":["Tirupur","Tamilnadu","India"],
+        "contact":"9487409906"
                 },
         "education":{
             "bacherlors":"B.sc(Hospitality and Hotel Administration)",
@@ -14,6 +16,10 @@
               "styling":"css,bootstrap",
               "frameworks":"react,react-native",
               "experience":"1 year of front-end development"
+        },
+        "links":{
+            "linkedin":"https://www.linkedin.com/in/siddhaarthan-ck-267095192/",
+            "github":"https://github.com/ckscode"
         }
     }
 
